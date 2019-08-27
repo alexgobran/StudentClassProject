@@ -24,7 +24,9 @@ namespace StudentClassProject {
             Nick.LastName = "Baker";
             Nick.SetFinalGrade(99);
                       Console.WriteLine($"{Nick.FirstName} {Nick.LastName}");
+
         }
+
         
     }
 }
